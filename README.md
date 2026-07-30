@@ -1,24 +1,24 @@
 # CPE101
 
-งานและแบบฝึกหัดรายวิชา **CPE101 – Introduction to Computer Engineering**
-สาขาวิศวกรรมคอมพิวเตอร์
+Coursework and exercises for **CPE101 – Introduction to Computer Engineering**
+Department of Computer Engineering
 
-**ผู้จัดทำ:** ปฏิมากรณ์ ศรีนามเอ้น (Patimakorn Srinam-en)
-**รหัสนักศึกษา:** 6905604
+**Author:** Patimakorn Srinam-en
+**Student ID:** 6905604
 
-## โครงสร้างโฟลเดอร์
+## Folder structure
 
 ```
 CPE101/
 └── 6905604/
-    ├── README.md          รายละเอียดงานสัปดาห์ที่ 9
-    ├── test_01.c          แสดงข้อความออกหน้าจอ
-    ├── test_02.c          บวกเลข 2 จำนวน
-    └── test_03.c          แสดงสูตรคูณแม่ 2
+    ├── README.md          Week 09 assignment details
+    ├── test_01.c          Print a message to the screen
+    ├── test_02.c          Add two integers
+    └── test_03.c          Print the multiplication table of 2
 ```
 
-## รายการงาน
+## Assignments
 
-| สัปดาห์ | หัวข้อ | โฟลเดอร์ |
-|---------|--------|----------|
-| Week 09 | Git command, GitHub และ Stack Overflow | [`6905604`](./6905604) |
+| Week | Topic | Folder |
+|------|-------|--------|
+| Week 09 | Git command, GitHub and Stack Overflow | [`6905604`](./6905604) |
