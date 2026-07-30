@@ -1,8 +1,8 @@
 /* test_02.c
- * CPE101 Week09 - Git command, GitHub and Stackoverflow
+ * CPE101 Week09 - Git command, GitHub and Stack Overflow
  * Patimakorn Srinam-en (6905604)
- * โปรแกรมทดสอบที่ 2 : รับค่าตัวเลข 2 จำนวนแล้วหาผลบวก
- * ไฟล์นี้ใช้สาธิตสถานะ modified -> add -> commit และ git restore
+ * Test program 2 : read two integers and print their sum
+ * Demonstrates the modified -> add -> commit flow and git restore
  */
 
 #include <stdio.h>
