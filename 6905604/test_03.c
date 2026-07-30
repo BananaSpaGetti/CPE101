@@ -1,8 +1,8 @@
 /* test_03.c
- * CPE101 Week09 - Git command, GitHub and Stackoverflow
+ * CPE101 Week09 - Git command, GitHub and Stack Overflow
  * Patimakorn Srinam-en (6905604)
- * โปรแกรมทดสอบที่ 3 : วนลูปแสดงสูตรคูณแม่ 2
- * ไฟล์นี้ใช้สาธิตสถานะ untracked -> git add -> staged
+ * Test program 3 : print the multiplication table of 2
+ * Demonstrates untracked -> git add -> staged
  */
 
 #include <stdio.h>
