@@ -1,7 +1,7 @@
 /* test_01.c
- * CPE101 Week09 - Git command, GitHub and Stackoverflow
+ * CPE101 Week09 - Git command, GitHub and Stack Overflow
  * Patimakorn Srinam-en (6905604)
- * โปรแกรมทดสอบที่ 1 : แสดงข้อความออกหน้าจอ
+ * Test program 1 : print a message to the screen
  */
 
 #include <stdio.h>
