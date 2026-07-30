@@ -1,0 +1,14 @@
+/* test_01.c
+ * CPE101 Week09 - Git command, GitHub and Stackoverflow
+ * Patimakorn Srinam-en (6905604)
+ * โปรแกรมทดสอบที่ 1 : แสดงข้อความออกหน้าจอ
+ */
+
+#include <stdio.h>
+
+int main(void)
+{
+    printf("Hello Git! This is test_01.c\n");
+    printf("CPE101 Week09 - Version Control with Git\n");
+    return 0;
+}
